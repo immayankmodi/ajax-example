@@ -1,4 +1,3 @@
-# ajax-example
 AspnetO Blog Series : Ajax Introduction: How to use AJAX in Asp.net with Example?
 
 ------------------------------------------------------------------------------------
